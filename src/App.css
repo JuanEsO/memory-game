@@ -7,5 +7,5 @@
 }
 
 .AppContainer__body {
-    @apply grid grid-cols-4 place-items-center md:grid-cols-6;
+    @apply grid grid-cols-3 place-items-center md:grid-cols-6 sm:grid-cols-4;
 }

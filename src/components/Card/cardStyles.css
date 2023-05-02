@@ -1,5 +1,5 @@
 .card-container {
-    @apply flex bg-blue-300 m-2 w-[150px] min-w-[70px] justify-center p-2 rounded aspect-[2/3] relative md:w-[12vw] cursor-pointer;
+    @apply flex bg-blue-300 m-2 w-[20vw] min-w-[40px] max-w-[180px] justify-center p-2 rounded aspect-[2/3] relative md:w-[12vw] cursor-pointer;
 }
 
 .card-image {
