@@ -1,0 +1,11 @@
+.welcome-modal {
+    @apply w-[30vw] justify-center align-middle text-center;
+}
+
+.welcome-modal form {
+    @apply mt-5 justify-center items-center flex flex-col;
+}
+
+.welcome-modal form button {
+    @apply bg-[#202b38] mt-5;
+}

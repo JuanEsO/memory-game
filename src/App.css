@@ -1,0 +1,11 @@
+.AppContainer {
+    @apply w-auto;
+}
+
+.HeaderTitle {
+    @apply text-white;
+}
+
+.AppContainer__body {
+    @apply grid grid-cols-4 place-items-center md:grid-cols-6;
+}

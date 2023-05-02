@@ -1,0 +1,10 @@
+.congratulations-modal {
+    @apply px-10;
+}
+.congratulations-modal__actions {
+    @apply w-full flex flex-row mt-5 justify-center;
+}
+
+.congratulations-modal__actions button {
+    @apply bg-[#202b38];
+}
