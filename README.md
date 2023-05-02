@@ -6,7 +6,7 @@ This is a simple app built with React, Vite, and TailwindCSS.
 To get started with the app, follow these steps:
 
 Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/JuanEsO/memory-game.git
 Install the dependencies by running the following command in your terminal:
 npm install
 
